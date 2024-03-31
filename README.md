@@ -3,9 +3,9 @@
 
 > https://somesh8271.github.io/
 
-![GitHub stars](https://img.shields.io/github/stars/varadbhogayata/https://somesh8271.github.io/) 
-![GitHub forks](https://img.shields.io/github/forks/varadbhogayata/https://somesh8271.github.io/)
-[![Maintenance](https://img.shields.io/badge/maintained-yes-green.svg)](https://github.com/varadbhogayata/varadbhogayata.github.io/commits/master)
+![GitHub stars](https://img.shields.io/github/stars/somesh8271/https://somesh8271.github.io/) 
+![GitHub forks](https://img.shields.io/github/forks/somesh8271/https://somesh8271.github.io/)
+[![Maintenance](https://img.shields.io/badge/maintained-yes-green.svg)](https://github.com/somesh8271/varadbhogayata.github.io/commits/master)
 [![Website shields.io](https://img.shields.io/badge/website-up-yellow)](https://somesh8271.github.io/)
 [![Ask Me Anything !](https://img.shields.io/badge/ask%20me-linkedin-1abc9c.svg)](https://www.linkedin.com/in/sosrivas/)
 [![License](http://img.shields.io/:license-mit-blue.svg?style=flat-square)](http://badges.mit-license.org)
