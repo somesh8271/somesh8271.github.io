@@ -13,7 +13,7 @@
 ### Website Preview
 <p align="center"> 
   <kbd>
-    <a href="https://somesh8271.github.io/" target="_blank"><img src="examples/preview.gif">
+    <a href="https://somesh8271.github.io/" target="_blank"><img src="examples/web-preview.png">
   </a>
   </kbd>
 </p>
